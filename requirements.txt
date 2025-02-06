@@ -1,3 +1,6 @@
+# requirements.txt
+schedule
+# other dependencies
 certifi==2025.1.31
 charset-normalizer==3.4.1
 et_xmlfile==2.0.0
